@@ -1,0 +1,15 @@
+.products {
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.products li {
+    list-style: none;
+    border-radius: 5px; 
+    padding: 28px 10px;
+    text-align: center;
+    border: 1px solid #fefefe;
+    margin: 0 10px;
+    width: 25%;
+}

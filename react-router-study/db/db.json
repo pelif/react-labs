@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Teclado Gamer Akko K120",
+            "price": 159.00
+        },
+        {
+            "id": 2,
+            "name": "Xiaomi Redmi Note 8",
+            "price": 100.00
+        },
+        {
+            "id": 3,
+            "name": "Mouse Gamer Razer Blackwidow",
+            "price": 88.00
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "name": "Mouse Razer Orochi V2",
+      "price": "150"
+    },
+    {
+      "id": "5",
+      "name": "Techaldo Gamer Razer P555",
+      "price": 500
+    },
+    {
+      "id": "9663",
+      "name": "Monitor Husky Tesmpest 34",
+      "price": "2500"
+    },
+    {
+      "id": null,
+      "name": "Notebook Acer nitro 5",
+      "price": "4666"
+    },
+    {
+      "id": null,
+      "name": "Notebook Acer nitro 5",
+      "price": "4666"
+    },
+    {
+      "id": null,
+      "name": "Notebook Acer nitro 5",
+      "price": "4666"
+    }
+  ]
+}
