@@ -24,7 +24,7 @@ const Register = () => {
             email, 
             password
         }
-
+        
         if (password !== confirmPassword) {
             setError('As senhas precisam ser iguais')
             return
@@ -33,7 +33,7 @@ const Register = () => {
         const res = await createUser(user)
 
         console.log(user)
-    }
+    }; 
 
     return (
         <div className={styles.register}>
