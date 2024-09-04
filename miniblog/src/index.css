@@ -71,7 +71,7 @@ textarea {
   border: none;
   padding: 10px 15px;
   font-size: 1em;
-  margin: 20px auto;
+  /* margin: 20px auto; */
 }
 
 .btn.btn-dark {
