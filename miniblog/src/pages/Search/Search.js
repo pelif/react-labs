@@ -11,8 +11,8 @@ import { Link } from 'react-router-dom';
 
 const Search = () => {
 
-    const query = useQuery();
-    const search = query.get("q");
+    // const query = useQuery();
+    // const search = query.get("q");
 
     const { documents: posts } = useFetchDocuments("posts");
 
